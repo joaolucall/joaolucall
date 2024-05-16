@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/joaolucall">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaolucall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaolucall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Joao%20Luca%20GitHub%20Stats"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucall&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
@@ -17,4 +17,5 @@
 </div>
 
 ##
+
 
